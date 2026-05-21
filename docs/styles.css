@@ -1,1 +1,29 @@
-/* css styles */
+.cv-layout {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  gap: 50px;
+  align-items: start;
+}
+
+.cv-sidebar {
+  font-size: 0.95rem;
+}
+
+.profile-photo {
+  width: 220px;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  padding: 5px;
+}
+
+.cv-main iframe {
+  margin-top: 20px;
+}
+
+.navbar-title {
+  font-weight: 700;
+}
+
+.navbar-nav {
+  margin-left: 80px;
+}/* css styles */
