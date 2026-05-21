@@ -5,7 +5,7 @@ project:
 website:
   title: "Ivan Sumaneev"
   navbar:
-    right:
+    left:
       - href: index.qmd
         text: Home
       - href: research.qmd
