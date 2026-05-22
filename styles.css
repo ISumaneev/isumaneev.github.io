@@ -3,7 +3,7 @@
   grid-template-columns: 260px 1fr;
   gap: 60px;
   align-items: start;
-  margin-left: -120px;
+  margin-left: -100px;
 }
 
 .cv-sidebar {
@@ -18,7 +18,7 @@
 }
 
 .cv-main iframe {
-  width: 85%;
+  width: 90%;
   height: 900px;
   border: none;
 }
