@@ -1,10 +1,11 @@
 ---
-title: "CV"
+title: ""
 ---
 
 ::: {.cv-layout}
 
 ::: {.cv-sidebar}
+## CV
 <img src="IS.png" class="profile-photo">
 
 **Ivan Sumaneev**
