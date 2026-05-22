@@ -5,7 +5,7 @@ title: "CV"
 ::: {.cv-layout}
 
 ::: {.cv-sidebar}
-![](IS.jpg){.profile-photo}
+![](IS.png){.profile-photo}
 
 **Ivan Sumaneev**
 
@@ -20,7 +20,7 @@ Chapel Hill, NC
 ::: {.cv-main}
 [Download my CV](CV.pdf)
 
-<iframe src="CV.pdf" width="100%" height="900px" style="border: none;"></iframe>
+<iframe src="CV.pdf" width="200%" height="900px" style="border: none;"></iframe>
 :::
 
 :::
