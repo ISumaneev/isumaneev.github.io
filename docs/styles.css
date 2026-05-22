@@ -18,8 +18,9 @@
 }
 
 .cv-main iframe {
-  margin-top: 20px;
-  max-width: 950px;
+  width: 85%;
+  height: 900px;
+  border: none;
 }
 
 .navbar-title {
