@@ -10,6 +10,10 @@
   font-size: 0.95rem;
 }
 
+.cv-title {
+  text-align: center;
+}
+
 .profile-photo {
   width: 220px;
   height: 220px;
