@@ -12,9 +12,10 @@
 
 .profile-photo {
   width: 220px;
+  height: 220px;
   border-radius: 50%;
-  border: 1px solid #ddd;
-  padding: 5px;
+  object-fit: cover;
+  border: 3px solid #ddd;
 }
 
 .cv-main iframe {

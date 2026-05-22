@@ -5,7 +5,7 @@ title: "CV"
 ::: {.cv-layout}
 
 ::: {.cv-sidebar}
-![](IS.png){.profile-photo}
+<img src="IS.jpg" class="profile-photo">
 
 **Ivan Sumaneev**
 

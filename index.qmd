@@ -3,6 +3,6 @@ title: "About me"
 ---
 
 
-![](IS.png){width="250"}
+<img src="IS.jpg" class="profile-photo">
 
 I am a PhD student in Political Science at the University of North Carolina at Chapel Hill.
